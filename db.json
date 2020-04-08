@@ -1,3 +1,19 @@
 {
-  "streams": [{}]
+  "streams": [
+    {
+      "id": "1"
+    },
+    {
+      "title": "q",
+      "description": "q",
+      "userId": "106225602210998097964",
+      "id": "YoYIlkl"
+    },
+    {
+      "title": "2",
+      "description": "a2",
+      "userId": "106225602210998097964",
+      "id": "Qn67scG"
+    }
+  ]
 }
